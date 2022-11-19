@@ -3,7 +3,7 @@
 using namespace std;
 void(int a, int b)
 {
-	std::cout << a + b;
+	std::cout << a * b;
 }
 int main()
 {
