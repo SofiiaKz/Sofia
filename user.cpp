@@ -3,6 +3,6 @@
 using namespace std;
 struct user()
 {
-	int a;
-	int b
+	int abricos;
+	int banan
 }
