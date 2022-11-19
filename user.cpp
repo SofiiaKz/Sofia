@@ -3,6 +3,6 @@
 using namespace std;
 struct user()
 {
-	int a;
+	int master_name;
 	int b
 }
